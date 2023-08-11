@@ -1,0 +1,6 @@
+obj
+bin
+*.exe
+*.pdb
+*.manifest
+*.cache
